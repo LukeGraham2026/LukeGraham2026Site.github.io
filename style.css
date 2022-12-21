@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#profile{
+  height: 60%;
+  border-radius: 50px;
+  margin-top: 20%;
+  margin-left: 10%;
+}
+.name{
+  margin-top:20%;
+  margin-left:-15%;
+  font-size:115px;
+  font-weight:bold;
+}
+.subtitle{
+  margin-left:-15%;
+}
+.linkedin{
+  width:8%;
+}
+.contact {
+  margin-left:-15%
+}
+.contact a{
+  margin-left:5%;
+}
+.box{
+  width:50%;
+  margin:3%;
+  margin-left:10%;
+  margin-bottom:2%;
+}
+
+@media only screen (max-device-width : 768px) {
+    html,body { display: none; } 
+}
