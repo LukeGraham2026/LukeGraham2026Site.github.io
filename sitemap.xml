@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://lukegraham.tech/writing</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/tech</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/innovation</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/essays/fhao</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/essays/turtles</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/essays/life</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/essays/kristallnacht</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+<url>
+  <loc>http://lukegraham.tech/essays/warriors</loc>
+  <changefreq>always</changefreq>
+  <lastmod>2022-12-22</lastmod>
+</url>
+</urlset>
